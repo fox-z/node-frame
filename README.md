@@ -5,10 +5,6 @@ nodejs版本 >= v8.7.0
 npm版本 >= 5.4.2
 
 
-
-## 下载
-
-    git clone git@git.showjoy.net:node-server/showjoy-node-background-framework.git
 ## 目录介绍
 
     service:  业务真实处理层
@@ -28,6 +24,3 @@ npm版本 >= 5.4.2
     cd  showjoy-node-background-framework
     npm install .
     node bin/run
-
-## 访问
-    http://127.0.0.1:15000
